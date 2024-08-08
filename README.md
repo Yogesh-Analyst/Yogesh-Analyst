@@ -2,7 +2,7 @@ Hi there, I'm Yogeshwaran R 👋
 I'm an MBA Graduate and an aspiring Data Analyst with a passion for turning data into actionable insights. With a strong foundation in business analytics, digital marketing, and data science, I thrive on solving complex problems and helping businesses make data-driven decisions.
 
 👨‍💻 My Skillset:
-Data Analysis: SQL, Python, R
+Data Analysis: SQL, Python, R<br>
 Data Visualization: Power BI, Tableau
 Machine Learning: Scikit-learn, Pandas, NumPy
 Business Analytics: Market Basket Analysis, Customer Churn Analysis, Social Media Campaign Analysis
